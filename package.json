@@ -1,0 +1,11 @@
+{
+  "name": "faucet-extender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:royvandewater/faucet-extender.git",
+  "author": "Roy van de Water <roy@circleci.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jscad/modeling": "^2.5.0"
+  }
+}
